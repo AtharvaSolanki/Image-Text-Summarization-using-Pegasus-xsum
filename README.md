@@ -1,4 +1,4 @@
-# Image-Text-Summarization-using-Pegasus-xsum.
+# Image-Text-Summarization-using-Pegasus-xsum
 Following steps arebeing followed in this project
 1- Using PIL library I loaded image of a notice downloaded from google.
 2- Text from the image was extraxcted using OCR tool of python called Pytesseract.
